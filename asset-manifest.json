@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Cumples/static/css/main.67b8e8b0.css",
-    "main.js": "/Cumples/static/js/main.e109dd35.js",
+    "main.js": "/Cumples/static/js/main.92ceb1de.js",
     "static/js/787.58d7bd52.chunk.js": "/Cumples/static/js/787.58d7bd52.chunk.js",
     "static/media/codec.png": "/Cumples/static/media/codec.b42a5524a74d1776e5f4.png",
     "index.html": "/Cumples/index.html",
     "main.67b8e8b0.css.map": "/Cumples/static/css/main.67b8e8b0.css.map",
-    "main.e109dd35.js.map": "/Cumples/static/js/main.e109dd35.js.map",
+    "main.92ceb1de.js.map": "/Cumples/static/js/main.92ceb1de.js.map",
     "787.58d7bd52.chunk.js.map": "/Cumples/static/js/787.58d7bd52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67b8e8b0.css",
-    "static/js/main.e109dd35.js"
+    "static/js/main.92ceb1de.js"
   ]
 }
