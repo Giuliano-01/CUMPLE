@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CUMPLE/static/css/main.67b8e8b0.css",
+    "main.js": "/CUMPLE/static/js/main.0d59a60b.js",
+    "static/js/787.58d7bd52.chunk.js": "/CUMPLE/static/js/787.58d7bd52.chunk.js",
+    "static/media/codec.png": "/CUMPLE/static/media/codec.b42a5524a74d1776e5f4.png",
+    "index.html": "/CUMPLE/index.html",
+    "main.67b8e8b0.css.map": "/CUMPLE/static/css/main.67b8e8b0.css.map",
+    "main.0d59a60b.js.map": "/CUMPLE/static/js/main.0d59a60b.js.map",
+    "787.58d7bd52.chunk.js.map": "/CUMPLE/static/js/787.58d7bd52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b8e8b0.css",
+    "static/js/main.0d59a60b.js"
+  ]
+}
