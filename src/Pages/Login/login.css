@@ -1,0 +1,55 @@
+.login-container{
+    width: 100vw;
+    height: 100vh;
+
+    display: grid;
+    place-items: center;
+}
+
+    .form{
+        border: 2px solid black;
+        width: 100%;
+        height: 100%;
+        max-width: 500px;
+        height: 600px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    @media screen and (max-width:550px){
+        .form{
+            border: none;
+            justify-content: flex-start;
+        }
+        .login-container{
+            width: 100vw;
+            height: 100vh;
+        
+            display: flex;
+            align-items: flex-start;
+        }
+        .img{
+            max-width: 460px;
+            margin-top: 0px!important;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+    }
+        .elevationChildren{
+            margin-top: 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-direction: column;
+            gap: 35px;
+        }
+            .img{
+                max-width: 460px;
+                margin-top: -30PX;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
