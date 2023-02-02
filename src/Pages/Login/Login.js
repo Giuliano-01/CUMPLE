@@ -34,7 +34,7 @@ const Login = () => {
                                 <Form className="form">
                                 <div className="img" >
 
-                                    <img src={codec} width="100%"/>
+                                    <img src={codec} width="100%" alt="codec"/>
 
                                 </div>
 
